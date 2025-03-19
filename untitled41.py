@@ -9,7 +9,6 @@ Original file is located at
 
 import streamlit as st
 import pandas as pd
-import plotly.express as px
 
 # --- PAGE CONFIGURATION ---
 st.set_page_config(page_title="Saraswathi Kondapalli | AI & ML Portfolio", layout="wide")

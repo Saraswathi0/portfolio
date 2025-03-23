@@ -21,7 +21,7 @@ with st.sidebar:
     st.write("📍 India")
     st.markdown("[LinkedIn](https://www.linkedin.com/in/saraswathi-kondapalli-531041220/)")
     st.markdown("[GitHub](https://github.com/Saraswathi0)")
-    st.markdown("[Resume](mailto:saraswathikondapalli09@gmail.com)")
+    st.markdown("[Resume](https://drive.google.com/file/d/1CI6r7iz6PQtZ4T60_6fdh9ly3L9Y21SD/view?usp=drivesdk)")
 
 # --- HOME PAGE ---
 st.title("Welcome to My AI & ML Portfolio")
